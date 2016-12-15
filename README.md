@@ -1,2 +1,2 @@
 # udacity
-some exercises of udacity.
+some exercises and assignments of udacity.
