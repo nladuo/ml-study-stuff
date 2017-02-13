@@ -33,6 +33,7 @@ def test_run():
 
     # Get stock data
     df = get_data(symbols, dates)
+    #print df.ix['2010-01-01': '2010-01-31', ['SPY', 'IBM']]
     select_dates = pd.date_range('2010-01-01', '2010-01-31')
     print df.loc[select_dates, ['SPY', 'IBM']].dropna()
 
