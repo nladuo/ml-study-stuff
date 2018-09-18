@@ -1,2 +1,3 @@
-# udacity
-some exercises and assignments of udacity.
+# ML Study Stuff
+some machine learning study stuff.
+
