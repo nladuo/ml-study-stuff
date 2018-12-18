@@ -97,6 +97,7 @@ def rl():
             # print(", ", q_target)
             update_env(S, episode, step_counter+1)
             step_counter += 1
+        print(q_table)
     return q_table
 
 
