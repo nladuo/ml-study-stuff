@@ -23,5 +23,5 @@ an example of using VGG net for transfer learning.
 Some RL codes from [https://github.com/MorvanZhou/Reinforcement-learning-with-tensorflow](ttps://github.com/MorvanZhou/Reinforcement-learning-with-tensorflow)
 
 
-## [machine-translation]
+### [machine-translation](./machine-translation)
 An example of machine translation from English to French.
