@@ -1,6 +1,0 @@
-__pycache__/
-*.pyc
-preprocess.p
-checkpoint
-save.*
-params.p

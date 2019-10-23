@@ -1,7 +1,0 @@
-cifar-10-python.tar.gz
-cifar-10-batches-py/
-__pycache__/
-*.pyc
-preprocess_*.p
-image_classification.*
-checkpoint

@@ -1,3 +1,3 @@
 # ML Study Stuff
-some machine learning study stuff.
+some machine learning(deep learning) study stuffs and codes.
 
