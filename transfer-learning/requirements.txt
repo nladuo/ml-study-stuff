@@ -3,6 +3,6 @@ scikit-image
 scikit-learn==0.18.1
 scipy==0.19.0
 tqdm
-tensorflow==1.14.0
+tensorflow==1.15.4
 numpy
 matplotlib
